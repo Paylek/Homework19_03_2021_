@@ -1,4 +1,4 @@
-package Calculator;
+package calculator;
 
 public class Calculator {
     private static double a = 0.1;

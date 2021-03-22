@@ -1,4 +1,4 @@
-package Bank;
+package bank;
 
 public class Bank<view> {
     private int number;
@@ -6,6 +6,7 @@ public class Bank<view> {
     private boolean owner;
     private String term;
     private int cvv;
+
 
     public static void main(String[] args) {
         Bank bank = new Bank(12345678, "Visa", true, "06/22", 234);
