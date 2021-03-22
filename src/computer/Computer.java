@@ -1,4 +1,4 @@
-package Computer;
+package computer;
 
 import java.util.Random;
 import java.util.Scanner;
